@@ -28,7 +28,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
+# Base URL for GitHub Pages
+baseurl: "/mtm6407-static-site-gursimran41133516"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
